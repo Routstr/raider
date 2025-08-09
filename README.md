@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-AI Pair Programming in Your Terminal
+Routstr + Aider = Raider
 </h1>
 
 
